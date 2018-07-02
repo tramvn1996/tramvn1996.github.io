@@ -3,5 +3,30 @@ homepage:
         header: "Tram Nguyen"
         sub_header: "hehe xd"
         button: "See something"
+        image:
+            src: "images/banner.jpg"
+            alt: "my image"
 
     section2:
+        header: "Tram Nguyen"
+        sub_header: "hehe xd"
+        button: "See something"
+        image:
+            src: "images/banner.jpg"
+            alt: "my image"
+
+    section3:
+        header: "Tram Nguyen"
+        sub_header: "hehe xd"
+        button: "See something"
+        image:
+            src: "images/banner.jpg"
+            alt: "my image"
+
+    section4:
+        header: "Tram Nguyen"
+        sub_header: "hehe xd"
+        button: "See something"
+        image:
+            src: "images/banner.jpg"
+            alt: "my image"
