@@ -1,32 +1,33 @@
 homepage:
     section1:
-        header: "Tram Nguyen"
-        sub_header: "Hello everyone"
-        button: "See something"
+        header: "Welcome to my house :) "
+        sub_header: "Hi, I'm Tram Nguyen, keep scrolling to learn more about me
+        and my little adventures"
+        button: "Read more"
         image:
-            src: "images/banner.jpg"
-            alt: "my image"
+            src: "images/trampic/profilepic.jpg"
+            alt: "profilepic"
 
     section2:
-        header: "Tram Nguyen"
-        sub_header: "hehe xd"
-        button: "See something"
+        header: "My Mastercard Internship"
+        sub_header: "Summer in St. Louis"
+        button: "Read more"
         image:
-            src: "images/banner.jpg"
-            alt: "my image"
+            src: "images/trampic/stlprideintern.jpg"
+            alt: "stlprideintern"
 
     section3:
-        header: "Tram Nguyen"
-        sub_header: "hehe xd"
-        button: "See something"
+        header: "MaSSP Vietnam - Trại hè Toán và Khoa học"
+        sub_header: "My remote involvement with MaSSP"
+        button: "Read more"
         image:
-            src: "images/banner.jpg"
-            alt: "my image"
+            src: "images/trampic/massp.jpg"
+            alt: "massp"
 
     section4:
-        header: "Tram Nguyen"
-        sub_header: "hehe xd"
-        button: "See something"
+        header: "Asian Pacific American Coalition"
+        sub_header: "APAC at Stetson University"
+        button: "Read more"
         image:
-            src: "images/banner.jpg"
-            alt: "my image"
+            src: "images/trampic/apac2018.jpg"
+            alt: "apacbanquet"
