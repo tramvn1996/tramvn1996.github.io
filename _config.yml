@@ -1,33 +1,34 @@
 homepage:
-    section1:
-        header: "Welcome to my house :) "
-        sub_header: "Hi, I'm Tram Nguyen, keep scrolling to learn more about me
-        and my little adventures"
-        button: "Read more"
-        image:
-            src: "images/trampic/profilepic.jpg"
-            alt: "profilepic"
+  section1:
+    header: "Welcome to my house :) "
+    sub_header: "Hi, I'm Tram Nguyen, keep scrolling to learn more about me
+    and my little adventures"
+    button: "Read more"
+    image:
+      src: "images/trampic/profilepic.jpg"
+      alt: "profilepic"
 
-    section2:
-        header: "My Mastercard Internship"
-        sub_header: "Summer in St. Louis"
-        button: "Read more"
-        image:
-            src: "images/trampic/stlprideintern.jpg"
-            alt: "stlprideintern"
+  section2:
+    header: "My Mastercard Internship"
+    sub_header: "Summer in St. Louis"
+    button: "Read more"
+    image:
+      src: "images/trampic/stlprideintern.jpg"
+      alt: "stlprideintern"
 
-    section3:
-        header: "MaSSP Vietnam - Trại hè Toán và Khoa học"
-        sub_header: "My remote involvement with MaSSP"
-        button: "Read more"
-        image:
-            src: "images/trampic/massp.jpg"
-            alt: "massp"
+  section3:
+    header: "MaSSP Vietnam - Trại hè Toán và Khoa học"
+    sub_header: "My remote involvement with MaSSP"
+    button: "Read more"
+    image:
+      src: "images/trampic/massp.jpg"
+      alt: "massp"
 
-    section4:
-        header: "Asian Pacific American Coalition"
-        sub_header: "APAC at Stetson University"
-        button: "Read more"
-        image:
-            src: "images/trampic/apac2018.jpg"
-            alt: "apacbanquet"
+  section4:
+    header: "Asian Pacific American Coalition"
+    sub_header: "APAC at Stetson University"
+    button: "Read more"
+    image:
+      src: "images/trampic/apac2018.jpg"
+      alt: "apacbanquet"
+
