@@ -32,3 +32,27 @@ homepage:
       src: "images/trampic/apac2018.jpg"
       alt: "apacbanquet"
 
+  section5:
+    header: "My Happy Moments"
+    sub_header: ""
+    articles:
+      - image:
+          src: "images/trampic/apac2017.jpg"
+          link:
+          alt: "apac2017"
+      - image:
+          src: "images/trampic/fb.jpg"
+          link:
+          alt: "fb"
+      - image:
+          src: "images/trampic/fbpride.jpg"
+          link:
+          alt: "fbpride"
+      - image:
+          src: "images/trampic/bonnerpoverty.jpg"
+          link:
+          alt: "bonnerpoverty"
+      - image:
+          src: "images/trampic/ghc.jpg"
+          link:
+          alt: "ghc2017"
