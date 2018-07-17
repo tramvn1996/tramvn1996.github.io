@@ -39,14 +39,14 @@ homepage:
       - header: "APAC"
         sub_header: "APAC at Multiculture Student Council Banquet 2017"
         image:
-          src: "images/trampic/apac2017.jpg"
+          src: "images/trampic/sqapac2017.jpg"
           link:
           alt: "apac2017"
 
       - header: "Facebook"
         sub_header: "Facebook at SF Pride 2017"
         image:
-          src: "images/trampic/fb.jpg"
+          src: "images/trampic/sqfb.jpg"
           link:
           alt: "fb"
       - header: "Facebook"
