@@ -59,3 +59,29 @@ title: Tram Nguyen
 			<img src="{{ site.homepage.section4.image.src }}" alt="{{ site.homepage.section4.image.alt }}" />
 		</div>
 	</section>
+	<!-- Five -->
+		<section class="wrapper style1 align-center">
+			<div class="inner">
+				<h2>{{ site.homepage.section5.header }}</h2>
+				<p>{{ site.homepage.section5.sub_header }}</p>
+			</div>
+
+			<!-- Gallery -->
+				<div class="gallery style2 medium lightbox onscroll-fade-in">
+					{% for article in site.homepage.section5.articles %}
+						<article>
+							<a href="{{ article.image.link }}" class="image">
+								<img src="{{ article.image.src }}" alt="{{ article.image.alt }}" />
+							</a>
+							<div class="caption">
+								<h3>Ipsum Dolor</h3>
+								<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+								<ul class="actions fixed">
+									<li><span class="button small">Details</span></li>
+								</ul>
+							</div>
+						</article>
+					{% endfor %}
+				</div>
+
+		</section>
