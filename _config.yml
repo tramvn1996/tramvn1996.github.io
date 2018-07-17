@@ -50,7 +50,7 @@ homepage:
       - header: "My Facebook Internship"
         sub_header: "Live an learn in Sillicon Valley"
         image:
-          src: "images/trampic/sqfb.jpg"
+          src: "images/trampic/fb.jpg"
           link:
           alt: "fb"
       - header: "Bonner Program at Stetson University"
