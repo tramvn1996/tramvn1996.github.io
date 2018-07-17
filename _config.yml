@@ -28,32 +28,38 @@ homepage:
       alt: "massp"
 
   section4:
-    header: "Asian Pacific American Coalition"
-    sub_header: "APAC at Stetson University"
+    header: "Grace Hopper Conference 2017"
+    sub_header: "My first time to an all women conference"
     button: "Read more"
     button_link:
     image:
-      src: "images/trampic/apac2018.jpg"
-      alt: "apacbanquet"
+      src: "images/trampic/ghc.jpg"
+      alt: "ghc"
 
   section5:
-    header: "My Happy Moments"
+    header: "What else I've been up to :) "
     sub_header: ""
     articles:
-      - header: "APAC"
-        sub_header: "APAC at Multiculture Student Council Banquet 2017"
+      - header: "Data Science"
+        sub_header: "How I learned about Data Science, Big Data,..."
         image:
-          src: "images/trampic/sqapac2017.jpg"
-          link:
-          alt: "apac2017"
-
-      - header: "Facebook"
-        sub_header: "Facebook at SF Pride 2017"
+          src: "images/trampic/data.jpg"
+          link: "https://www.spigot.com/are-you-a-data-wiz-spigot-inc-wants-you/"
+          alt: ""
+      - header: "My Facebook Internship"
+        sub_header: "Live an learn in Sillicon Valley"
         image:
           src: "images/trampic/sqfb.jpg"
           link:
           alt: "fb"
-      - header: "Vietnam"
+      - header: "Asian Pacific American Coalition"
+        sub_header: "APAC at Stetson University"
+        image:
+          src: "images/trampic/apac2018.jpg"
+          link:
+          alt: "apac2017"
+
+      - header: "Vietnam 2017"
         sub_header: "Hai Van Pass - Đèo Hải Vân"
         image:
           src: "images/trampic/vnhaivan1.jpg"
@@ -65,9 +71,3 @@ homepage:
           src: "images/trampic/bonnerpoverty.jpg"
           link:
           alt: "bonnerpoverty"
-      - header: "Grace Hopper Conference"
-        sub_header: "Stetson students at GHC 2017"
-        image:
-          src: "images/trampic/ghc.jpg"
-          link:
-          alt: "ghc2017"
