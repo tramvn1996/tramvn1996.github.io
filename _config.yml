@@ -49,10 +49,10 @@ homepage:
           src: "images/trampic/sqfb.jpg"
           link:
           alt: "fb"
-      - header: "Facebook"
-        sub_header: "Facebook Pride Float 2017"
+      - header: "Vietnam"
+        sub_header: "Hai Van Pass - Đèo Hải Vân"
         image:
-          src: "images/trampic/fbpride.jpg"
+          src: "images/trampic/vnhaivan1.jpg"
           link:
           alt: "fbpride"
       - header: "Bonner Program at Stetson University"
