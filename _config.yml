@@ -1,9 +1,10 @@
 homepage:
   section1:
-    header: "Welcome to my house :) "
-    sub_header: "Hi, I'm Tram Nguyen, keep scrolling to learn more about me
-    and my little adventures"
+    header: "Hi, I'm Tram Nguyen"
+    sub_header: "I'm currently a senior majoring in Mathematics and Economics at Stetson University, Florida. Growing up in Vietnam, a developing country, I did not know that 'coding' can be a career, let alone 'data science'. What is data science btw?
+    \n \n I recently discovered my love for data, or a combination of economics and math with a touch of computer science. With the experience working at companies such as Facebook or Mastercard, I learned that data science is more an art than a science, and my dream is to be able to use this knowledge to create tools and technologies to help people everywhere. "
     button: "Read more"
+    button_link:
     image:
       src: "images/trampic/profilepic.jpg"
       alt: "profilepic"
@@ -12,6 +13,7 @@ homepage:
     header: "My Mastercard Internship"
     sub_header: "Summer in St. Louis"
     button: "Read more"
+    button_link:
     image:
       src: "images/trampic/stlprideintern.jpg"
       alt: "stlprideintern"
@@ -20,6 +22,7 @@ homepage:
     header: "MaSSP Vietnam - Trại hè Toán và Khoa học"
     sub_header: "My remote involvement with MaSSP"
     button: "Read more"
+    button_link:
     image:
       src: "images/trampic/massp.jpg"
       alt: "massp"
@@ -28,6 +31,7 @@ homepage:
     header: "Asian Pacific American Coalition"
     sub_header: "APAC at Stetson University"
     button: "Read more"
+    button_link:
     image:
       src: "images/trampic/apac2018.jpg"
       alt: "apacbanquet"
