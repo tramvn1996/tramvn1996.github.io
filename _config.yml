@@ -1,7 +1,7 @@
 homepage:
   section1:
     header: "Hi, I'm Tram Nguyen"
-    sub_header: "I'm currently a senior majoring in Mathematics and Economics at Stetson University, Florida. Growing up in Vietnam, a developing country, I did not know that 'coding' can be a career, let alone 'data science'. What is data science btw?
+    sub_header: "   I'm currently a senior majoring in Mathematics and Economics at Stetson University, Florida. Growing up in Vietnam, a developing country, I did not know that 'coding' can be a career, let alone 'data science'. What is data science btw?
     \n \n I recently discovered my love for data, or a combination of economics and math with a touch of computer science. With the experience working at companies such as Facebook or Mastercard, I learned that data science is more an art than a science, and my dream is to be able to use this knowledge to create tools and technologies to help people everywhere. "
     button: "Read more"
     button_link:
@@ -44,7 +44,8 @@ homepage:
         sub_header: "How I learned about Data Science, Big Data,..."
         image:
           src: "images/trampic/data.jpg"
-          link: "https://www.spigot.com/are-you-a-data-wiz-spigot-inc-wants-you/"
+          #https://www.europeandataportal.eu/elearning/en/
+          link:
           alt: ""
       - header: "My Facebook Internship"
         sub_header: "Live an learn in Sillicon Valley"
@@ -70,4 +71,4 @@ homepage:
         image:
           src: "images/trampic/vnhaivan1.jpg"
           link:
-          alt: "fbpride"
+          alt: "vnhaivan1"
