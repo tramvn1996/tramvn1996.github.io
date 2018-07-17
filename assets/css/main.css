@@ -188,7 +188,8 @@ input, select, textarea {
 	}
 
 		p.major {
-			font-size: 1.25rem;
+			font-size: 1rem;
+			text-align: justify;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3555,7 +3556,7 @@ input, select, textarea {
 		}
 
 		.banner.style1.fullscreen {
-			min-height: 100vh;
+			min-height: 80vh;
 		}
 
 			@media screen and (orientation: portrait) {
