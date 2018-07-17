@@ -52,6 +52,12 @@ homepage:
           src: "images/trampic/sqfb.jpg"
           link:
           alt: "fb"
+      - header: "Bonner Program at Stetson University"
+        sub_header: "Hunger and Homeless Issue Area 2016"
+        image:
+          src: "images/trampic/bonnerpoverty.jpg"
+          link:
+          alt: "bonnerpoverty"
       - header: "Asian Pacific American Coalition"
         sub_header: "APAC at Stetson University"
         image:
@@ -65,9 +71,3 @@ homepage:
           src: "images/trampic/vnhaivan1.jpg"
           link:
           alt: "fbpride"
-      - header: "Bonner Program at Stetson University"
-        sub_header: "Hunger and Homeless Issue Area 2016"
-        image:
-          src: "images/trampic/bonnerpoverty.jpg"
-          link:
-          alt: "bonnerpoverty"
