@@ -36,23 +36,34 @@ homepage:
     header: "My Happy Moments"
     sub_header: ""
     articles:
-      - image:
+      - header: "APAC"
+        sub_header: "APAC at Multiculture Student Council Banquet 2017"
+        image:
           src: "images/trampic/apac2017.jpg"
           link:
           alt: "apac2017"
-      - image:
+
+      - header: "Facebook"
+        sub_header: "Facebook at SF Pride 2017"
+        image:
           src: "images/trampic/fb.jpg"
           link:
           alt: "fb"
-      - image:
+      - header: "Facebook"
+        sub_header: "Facebook Pride Float 2017"
+        image:
           src: "images/trampic/fbpride.jpg"
           link:
           alt: "fbpride"
-      - image:
+      - header: "Bonner Program at Stetson University"
+        sub_header: "Hunger and Homeless Issue Area 2016"
+        image:
           src: "images/trampic/bonnerpoverty.jpg"
           link:
           alt: "bonnerpoverty"
-      - image:
+      - header: "Grace Hopper Conference"
+        sub_header: "Stetson students at GHC 2017"
+        image:
           src: "images/trampic/ghc.jpg"
           link:
           alt: "ghc2017"
