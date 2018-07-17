@@ -45,10 +45,9 @@ homepage:
       - header: "Data Science"
         sub_header: "How I learned about Data Science, Big Data,..."
         image:
-          src: "images/trampic/data.jpg"
-          #https://www.europeandataportal.eu/elearning/en/
+          src: "images/trampic/data.png"
           link:
-          alt: ""
+          alt: "http://blog.kaggle.com/2017/11/16/introducing-data-science-for-good-events-on-kaggle/"
       - header: "My Facebook Internship"
         sub_header: "Live an learn in Sillicon Valley"
         image:
