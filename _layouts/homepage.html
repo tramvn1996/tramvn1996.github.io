@@ -90,11 +90,12 @@ title: Tram Nguyen
 <!-- Six -->
 	<section class="wrapper style1 align-center">
 		<div class="inner">
-			<h2>Ipsum sed consequat</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
+			<h2>{{ site.homepage.section6.header }}</h2>
+			<p>{{ site.homepage.section6.sub_header }}</p>
 			<div class="items style1 medium onscroll-fade-in">
 				{% for post in site.posts %}
 					<section>
+						<img class="blog-thumbnail" src="{{ post.thumbnail }}">
 						<span class="icon style2 major fa-diamond"></span>
 						<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 						<p>{{ post.excerpt }}</p>

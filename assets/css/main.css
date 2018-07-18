@@ -8578,3 +8578,33 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.blog-thumbnail {
+	width: 100%;
+}
+
+.blog-content {
+	padding: 0 2.5rem !important;
+}
+
+.blog-home-button {
+	min-height: 65px;
+	text-align: center;
+	padding: 10px;
+}
+.blog-home-button a {
+	font-size: 1.2em;
+	text-decoration: none;
+	transition: 0.5s ease-in-out;
+}
+.blog-home-button a:hover {
+	text-decoration: underline;
+}
+
+.blog-thumbnail-wrapper {
+	padding: 50px;
+}
+.blog-thumbnail-wrapper img {
+	width: 100%;
+	max-width: 800px;
+}
