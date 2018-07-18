@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Summer in St. Louis
-thumbnail: images/trampic/arch.jpg
+thumbnail: images/trampic/stadiumsq.jpg
 ---
 
 
@@ -22,13 +22,10 @@ __2. Cardinal Game__
 Nothing is more fun than going to a game where your home team won an overwhelming victory and Mastercard, where I am interning, paid for us to be in the luxury suite. We were unfortunate that the game was on a rainy day, so the game was delayed for 2 hours, but luckily, it was not canceled.
 
 
-![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/cardinalgame1.jpg)
+![cardinalgame]({{ "/images/trampic/cardinalgame1.jpg"}})
 
 
 It was my first time going to a Cardinal game, and it was amazing! I love the energy in the field, especially when the Cardinals scored themselves a good homerun. One of the factors that I thought made us enjoy the game so much was the seating. I watched a Nationals game 2 years ago, but my seat was too far for me to see anything, so it was not fun. Therefore, maybe in the future, if I am to take anyone to a baseball game, I will make sure to secure really good seats early on
-
-
-![pinkflamingo]({{ "/images/trampic/stadium.jpg"}})
 
 
 __3. Zoo (No. 1 Zoo in the US, and it’s free)__

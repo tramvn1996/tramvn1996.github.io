@@ -4,7 +4,7 @@ homepage:
     sub_header: "   I'm currently a senior majoring in Mathematics and Economics at Stetson University, Florida. Growing up in Vietnam, a developing country, I did not know that 'coding' can be a career, not to mention what 'data science' is.
 
     \n
-    I recently discovered my love for data science, or in my mind, the combination of economics and math with a touch of computer science. With the experience working at companies such as Facebook or Mastercard, I learned that data science is more an art than a science, and my dream is to be able to create tools and technologies to help people everywhere with this art. "
+    I recently discovered my love for data science, or in my mind, the combination of economics and math with a touch of computer science. With the experience working at companies such as Facebook or Mastercard, I learned that data science is more an art than a science, and my dream is to be able to create tools and technologies to help people everywhere with this modern art. "
     button: "Read more"
     button_link:
     image:
@@ -15,7 +15,7 @@ homepage:
     header: "My Mastercard Internship"
     sub_header: "Summer in St. Louis"
     button: "Read more"
-    button_link:
+    button_link: "http://tramnguyen.me/2018/07/17/stlouis-summer.html"
     image:
       src: "images/trampic/stlprideintern.jpg"
       alt: "stlprideintern"
