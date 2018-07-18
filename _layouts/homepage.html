@@ -59,29 +59,54 @@ title: Tram Nguyen
 			<img src="{{ site.homepage.section4.image.src }}" alt="{{ site.homepage.section4.image.alt }}" />
 		</div>
 	</section>
-	<!-- Five -->
-		<section class="wrapper style1 align-center">
-			<div class="inner">
-				<h2>{{ site.homepage.section5.header }}</h2>
-				<p>{{ site.homepage.section5.sub_header }}</p>
+
+<!-- Five -->
+	<!-- <section class="wrapper style1 align-center">
+		<div class="inner">
+			<h2>{{ site.homepage.section5.header }}</h2>
+			<p>{{ site.homepage.section5.sub_header }}</p>
+		</div> -->
+
+		<!-- Gallery -->
+			<!-- <div class="gallery style2 medium lightbox onscroll-fade-in">
+				{% for article in site.homepage.section5.articles %}
+					<article>
+						<a href="{{ article.image.link }}" class="image">
+							<img src="{{ article.image.src }}" alt="{{ article.image.alt }}" />
+						</a>
+						<div class="caption">
+							<h3>{{ article.header }}</h3>
+							<p>{{ article.sub_header }}</p> -->
+							<!-- <ul class="actions fixed">
+								<li><span class="button small">Details</span></li>
+							</ul> -->
+						<!-- </div>
+					</article>
+				{% endfor %}
 			</div>
 
-			<!-- Gallery -->
-				<div class="gallery style2 medium lightbox onscroll-fade-in">
-					{% for article in site.homepage.section5.articles %}
-						<article>
-							<a href="{{ article.image.link }}" class="image">
-								<img src="{{ article.image.src }}" alt="{{ article.image.alt }}" />
-							</a>
-							<div class="caption">
-								<h3>{{ article.header }}</h3>
-								<p>{{ article.sub_header }}</p>
-								<!-- <ul class="actions fixed">
-									<li><span class="button small">Details</span></li>
-								</ul> -->
-							</div>
-						</article>
-					{% endfor %}
-				</div>
+	</section> -->
 
-		</section>
+<!-- Six -->
+	<section class="wrapper style1 align-center">
+		<div class="inner">
+			<h2>{{ site.homepage.section6.header }}</h2>
+			<p>{{ site.homepage.section6.sub_header }}</p>
+			<div class="items style1 medium onscroll-fade-in">
+				{% for post in site.posts %}
+					<section>
+						<div class="blog-preview-thumbnail-wrapper">
+							<a href="{{ post.url }}"></a>
+							<img class="blog-preview-thumbnail" src="{{ post.thumbnail }}">
+						</div>
+						<div class="blog-preview-content">
+							<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+							<div class="blog-excerpt">
+								{{ post.excerpt }}
+							</div>
+						</div>
+					</section>
+				{% endfor %}
+			</div>
+		</div>
+	</section>

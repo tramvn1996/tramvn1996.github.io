@@ -38,38 +38,6 @@ homepage:
       src: "images/trampic/ghc.jpg"
       alt: "ghc"
 
-  section5:
+  section6:
     header: "What else I've been up to :) "
     sub_header: ""
-    articles:
-      - header: "Data Science"
-        sub_header: "How I learned about Data Science, Big Data,..."
-        image:
-          src: "images/trampic/data.png"
-          link:
-          alt: "http://blog.kaggle.com/2017/11/16/introducing-data-science-for-good-events-on-kaggle/"
-      - header: "My Facebook Internship"
-        sub_header: "Live an learn in Sillicon Valley"
-        image:
-          src: "images/trampic/fb.jpg"
-          link:
-          alt: "fb"
-      - header: "Bonner Program at Stetson University"
-        sub_header: "Hunger and Homeless Issue Area 2016"
-        image:
-          src: "images/trampic/bonnerpoverty.jpg"
-          link:
-          alt: "bonnerpoverty"
-      - header: "Asian Pacific American Coalition"
-        sub_header: "APAC at Stetson University"
-        image:
-          src: "images/trampic/apac2018.jpg"
-          link:
-          alt: "apac2017"
-
-      - header: "Vietnam 2017"
-        sub_header: "Hai Van Pass - Đèo Hải Vân"
-        image:
-          src: "images/trampic/vnhaivan1.jpg"
-          link:
-          alt: "vnhaivan1"
