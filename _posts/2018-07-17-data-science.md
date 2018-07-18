@@ -5,5 +5,3 @@ thumbnail: images/trampic/data.png
 ---
 
 ## "How I learned about Data Science, Big Data,..."
-
-hello
