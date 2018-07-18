@@ -58,10 +58,6 @@ I spent $65 on a lawn ticket to see Imagine Dragon in July. I have to say my mon
 Then we got to listen to all of Imagine Dragons biggest hits, and let me tell you, they were great live. I thought their songs were already good on Youtube, turn out, I did not know anything. I would totally spend my money to see them again and again and again, because I love them that much.
 
 
-![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/idconcert.jpg)
-
-
-
 Though outside was hot and humid, the concert did not begin until 7pm, and Imagine Dragons started to sing around 8:30pm, so no need to worry about hot weather.
 
 
