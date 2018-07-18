@@ -50,7 +50,8 @@ We went on a Saturday afternoon, and the tricky part is that the zoo closes at 7
 __4. Imagine Dragon Concert__
 
 
-![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/idconcert.jpg)
+![My helpful screenshot]({{ "images/trampic/idconcert.jpg"}})
+
 
 
 I spent $65 on a lawn ticket to see Imagine Dragon in July. I have to say my money was well spent. The only regret I had that night was that “why didn’t I spend an extra $30-$40 to sit closer to Imagine Dragon”. However, it probably the best I have ever made, since I also got to see Grace Vanderwalt for the opening. Her singing live was amazing, and I loved all of her new songs.
