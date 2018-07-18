@@ -168,11 +168,11 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 		a:hover {
-			text-decoration: none;
+			text-decoration: underline;
 		}
 
 	strong, b {
@@ -8579,8 +8579,33 @@ input, select, textarea {
 				box-shadow: none !important;
 			}
 
-.blog-thumbnail {
+.blog-excerpt > * {
+	font-size: 0.9em;
+}
+
+.blog-preview-content {
+	padding: 20px 0;
+}
+
+.blog-preview-thumbnail {
 	width: 100%;
+}
+
+.blog-preview-thumbnail-wrapper:hover {
+	opacity: 0.9;
+}
+
+.blog-preview-thumbnail-wrapper {
+	position: relative;
+	transition: 0.5s ease-in-out;
+}
+
+.blog-preview-thumbnail-wrapper a {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
 }
 
 .blog-content {

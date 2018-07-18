@@ -61,14 +61,14 @@ title: Tram Nguyen
 	</section>
 
 <!-- Five -->
-	<section class="wrapper style1 align-center">
+	<!-- <section class="wrapper style1 align-center">
 		<div class="inner">
 			<h2>{{ site.homepage.section5.header }}</h2>
 			<p>{{ site.homepage.section5.sub_header }}</p>
-		</div>
+		</div> -->
 
 		<!-- Gallery -->
-			<div class="gallery style2 medium lightbox onscroll-fade-in">
+			<!-- <div class="gallery style2 medium lightbox onscroll-fade-in">
 				{% for article in site.homepage.section5.articles %}
 					<article>
 						<a href="{{ article.image.link }}" class="image">
@@ -76,16 +76,16 @@ title: Tram Nguyen
 						</a>
 						<div class="caption">
 							<h3>{{ article.header }}</h3>
-							<p>{{ article.sub_header }}</p>
+							<p>{{ article.sub_header }}</p> -->
 							<!-- <ul class="actions fixed">
 								<li><span class="button small">Details</span></li>
 							</ul> -->
-						</div>
+						<!-- </div>
 					</article>
 				{% endfor %}
 			</div>
 
-	</section>
+	</section> -->
 
 <!-- Six -->
 	<section class="wrapper style1 align-center">
@@ -95,10 +95,16 @@ title: Tram Nguyen
 			<div class="items style1 medium onscroll-fade-in">
 				{% for post in site.posts %}
 					<section>
-						<img class="blog-thumbnail" src="{{ post.thumbnail }}">
-						<span class="icon style2 major fa-diamond"></span>
-						<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-						<p>{{ post.excerpt }}</p>
+						<div class="blog-preview-thumbnail-wrapper">
+							<a href="{{ post.url }}"></a>
+							<img class="blog-preview-thumbnail" src="{{ post.thumbnail }}">
+						</div>
+						<div class="blog-preview-content">
+							<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+							<div class="blog-excerpt">
+								{{ post.excerpt }}
+							</div>
+						</div>
 					</section>
 				{% endfor %}
 			</div>
