@@ -8591,6 +8591,10 @@ input, select, textarea {
 	width: 100%;
 }
 
+.blog-post-wrapper img {
+	width: 80%;
+}
+
 .blog-preview-thumbnail-wrapper:hover {
 	opacity: 0.9;
 }

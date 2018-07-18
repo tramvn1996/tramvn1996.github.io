@@ -34,7 +34,15 @@ It was my first time going to a Cardinal game, and it was amazing! I love the en
 __3. Zoo (No. 1 Zoo in the US, and it’s free)__
 
 
-St. Louis is known about its no.1 zoo in the United States, and they took pride on it, so it is a must to check out!
+![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/zoopink.jpg)
+
+
+
+St. Louis is known about its no.1 zoo in the United States, and they took pride on it, so it is a must to check out! I was excited to see the little penguins since I didn't get to see them the last time I visited. Other than the cute penguins chilling, all the other animals are pretty tired. Maybe it's close to their dinner time :'(
+
+
+![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/zoopen.jpg)
+
 
 We went on a Saturday afternoon, and the tricky part is that the zoo closes at 7:30pm, but it was still boiling hot outside until 6pm. While we had fun and everything at the zoo, I would recommend others to go in the morning, or the best time of the year to go would be in spring season.
 
@@ -42,9 +50,17 @@ We went on a Saturday afternoon, and the tricky part is that the zoo closes at 7
 __4. Imagine Dragon Concert__
 
 
+![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/idconcert.jpg)
+
+
 I spent $65 on a lawn ticket to see Imagine Dragon in July. I have to say my money was well spent. The only regret I had that night was that “why didn’t I spend an extra $30-$40 to sit closer to Imagine Dragon”. However, it probably the best I have ever made, since I also got to see Grace Vanderwalt for the opening. Her singing live was amazing, and I loved all of her new songs.
 
 Then we got to listen to all of Imagine Dragons biggest hits, and let me tell you, they were great live. I thought their songs were already good on Youtube, turn out, I did not know anything. I would totally spend my money to see them again and again and again, because I love them that much.
+
+
+![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/idconcert.jpg)
+
+
 
 Though outside was hot and humid, the concert did not begin until 7pm, and Imagine Dragons started to sing around 8:30pm, so no need to worry about hot weather.
 
