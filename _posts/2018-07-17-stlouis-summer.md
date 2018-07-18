@@ -28,20 +28,20 @@ Nothing is more fun than going to a game where your home team won an overwhelmin
 It was my first time going to a Cardinal game, and it was amazing! I love the energy in the field, especially when the Cardinals scored themselves a good homerun. One of the factors that I thought made us enjoy the game so much was the seating. I watched a Nationals game 2 years ago, but my seat was too far for me to see anything, so it was not fun. Therefore, maybe in the future, if I am to take anyone to a baseball game, I will make sure to secure really good seats early on
 
 
-![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/stadium.jpg)
+![pinkflamingo]({{ "/images/trampic/stadium.jpg"}})
 
 
 __3. Zoo (No. 1 Zoo in the US, and it’s free)__
 
 
-![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/zoopink.jpg)
+![pinkflamingo]({{ "/images/trampic/zoopink.jpg"}})
 
 
 
 St. Louis is known about its no.1 zoo in the United States, and they took pride on it, so it is a must to check out! I was excited to see the little penguins since I didn't get to see them the last time I visited. Other than the cute penguins chilling, all the other animals are pretty tired. Maybe it's close to their dinner time :'(
 
 
-![alt text](https://raw.githubusercontent.com/tramvn1996/tramvn1996.github.io/master/images/trampic/zoopen.jpg)
+![penguins]({{ "/images/trampic/zoopen.jpg"}})
 
 
 We went on a Saturday afternoon, and the tricky part is that the zoo closes at 7:30pm, but it was still boiling hot outside until 6pm. While we had fun and everything at the zoo, I would recommend others to go in the morning, or the best time of the year to go would be in spring season.
@@ -50,7 +50,7 @@ We went on a Saturday afternoon, and the tricky part is that the zoo closes at 7
 __4. Imagine Dragon Concert__
 
 
-![My helpful screenshot]({{ "images/trampic/idconcert.jpg"}})
+![IDConcert]({{ "/images/trampic/idconcert.jpg"}})
 
 
 
