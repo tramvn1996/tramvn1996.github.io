@@ -24,4 +24,18 @@ __2. Learn from online sources__
 
 I wish we can just work hard in school and that would be enough to succeed in life. Well, that is not exactly the case now anymore. I am inspired by my friends around me to continue my learning outside of the classroom.
 
-I took my baby steps by trying to use R or Python to run my econometric model
+I took my baby steps by trying to use R or Python to run my econometric model (on top of the Stata software that the department was using).
+
+After I got comfortable with that, I tried to venture out into other problems such as machine learning algorithms. Starting out with the simple tutorials in KNN and then moved on to more complex algorithms.
+
+I started to watch Andrew Ng video lectures, and for Vietnamese speakers, Forum Machine Learning is extremely helpful to get started. In addition, I am also considering reading papers and competing in Kaggle competition to further practice my data skills.
+
+
+__3. Read__
+
+
+I asked my Statistics professor once about how to be a better analyst, and her recommendation was to "read, keep yourself update with the news, get yourself familiar with the trend in the industry now and learn about what other people are up to with their analytics".
+
+I tried to read more, even the news or stories that are not related to Data Science or Math, and at the time, it may seem like it would not be helpful for me. However, in a way, when I look back, it is all connected. For example, I was doing an independent research on Bitcoin, then as I read more about blockchain technologies and disruption on the payment space. Therefore, when I came in my interview with Mastercard, I was able to talk and ask my interviewer insightful questions not only about her and Mastercard, but also about the challenges that the company is facing and how they are reacting to it.
+
+Maybe I could make myself stand out because of all the knowledge I accumulated when I was researching. 
