@@ -38,4 +38,4 @@ I asked my Statistics professor once about how to be a better analyst, and her r
 
 I tried to read more, even the news or stories that are not related to Data Science or Math, and at the time, it may seem like it would not be helpful for me. However, in a way, when I look back, it is all connected. For example, I was doing an independent research on Bitcoin, then as I read more about blockchain technologies and disruption on the payment space. Therefore, when I came in my interview with Mastercard, I was able to talk and ask my interviewer insightful questions not only about her and Mastercard, but also about the challenges that the company is facing and how they are reacting to it.
 
-Maybe I could make myself stand out because of all the knowledge I accumulated when I was researching. 
+Maybe I could make myself stand out because of all the knowledge I accumulated when I was researching.
