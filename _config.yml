@@ -24,7 +24,7 @@ homepage:
     header: "MaSSP Vietnam"
     sub_header: "My remote involvement with MaSSP"
     button: "Read more"
-    button_link:
+    button_link: "http://tramnguyen.me/2018/07/17/massp.html"
     image:
       src: "images/trampic/massp.jpg"
       alt: "massp"
